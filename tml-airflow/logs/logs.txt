@@ -12247,3 +12247,4 @@ origin	https://<personal access token hidden>@github.com/rmousavi-raspberry/rasp
 [INFO 2025-01-03_21:17:41] {'name': ['Project with slug "mysolution" already exists.']}
 [ERROR 2025-01-03_21:25:46] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag.py 'StreamTopicDetails'
 [ERROR 2025-01-03_21:25:52] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag.py 'StreamTopicDetails'
+[ERROR 2025-01-03_21:25:59] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag.py 'StreamTopicDetails'
