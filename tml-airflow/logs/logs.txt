@@ -13449,3 +13449,4 @@ origin	https://<personal access token hidden>@github.com/rmousavi-raspberry/rasp
 [ERROR 2025-01-03_23:42:35] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag.py 'StreamTopicDetails'
 [ERROR 2025-01-03_23:42:42] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag.py 'StreamTopicDetails'
 [ERROR 2025-01-03_23:42:48] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag.py 'StreamTopicDetails'
+[ERROR 2025-01-03_23:42:55] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag.py 'StreamTopicDetails'
