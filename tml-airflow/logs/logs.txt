@@ -12185,3 +12185,4 @@ origin	https://<personal access token hidden>@github.com/rmousavi-raspberry/rasp
 [INFO 2025-02-12_18:00:18] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-iotsolution-3f10.py
 [INFO 2025-02-12_18:00:19] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-iotsolution-3f10.py
 [INFO 2025-02-12_18:00:21] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-iotsolution-3f10.py
+[INFO 2025-02-12_18:00:34] Visualization DAG in tml_system_step_7_kafka_visualization_dag-iotsolution-3f10.py
