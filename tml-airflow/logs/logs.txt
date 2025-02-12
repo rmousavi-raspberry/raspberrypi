@@ -12179,3 +12179,4 @@ branch.main.remote=origin
 branch.main.merge=refs/heads/main
 [INFO 2025-02-12_17:57:29] TML Solution Studio: Github Remote Status: origin	https://github.com/rmousavi-raspberry/raspberrypi.git (fetch)
 origin	https://<personal access token hidden>@github.com/rmousavi-raspberry/raspberrypi.git (push)
+[INFO 2025-02-12_18:00:15] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-iotsolution-3f10.py
