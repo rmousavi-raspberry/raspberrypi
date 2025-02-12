@@ -12187,3 +12187,4 @@ origin	https://<personal access token hidden>@github.com/rmousavi-raspberry/rasp
 [INFO 2025-02-12_18:00:21] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-iotsolution-3f10.py
 [INFO 2025-02-12_18:00:34] Visualization DAG in tml_system_step_7_kafka_visualization_dag-iotsolution-3f10.py
 [INFO 2025-02-12_18:00:45] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-iotsolution-3f10.py
+[ERROR 2025-02-12_18:00:58] Deploying to Docker in tml_system_step_8_deploy_solution_to_docker_dag-iotsolution-3f10.py: [Errno 2] No such file or directory: '/raspberrypi/tml-airflow/dags/tml-solutions/_mysolution_/docker_run_stop-_mysolution_.py'
